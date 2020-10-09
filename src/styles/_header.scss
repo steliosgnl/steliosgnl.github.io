@@ -7,9 +7,11 @@
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
+
   .particles-js-canvas-el {
     width:100% !important;
     height:100vh !important;
+
   }
 }
 
@@ -23,6 +25,7 @@
   margin: 0 auto;
   -webkit-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
+
   .site-title {
     font-size: 50px;
     display: block;

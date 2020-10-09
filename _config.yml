@@ -1,15 +1,15 @@
 # Site settings
-title: Vassilis Xanthopoulos
-description: My portfolio website
+title: Stelios Giannelos
+description: This is my portfolio website
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: Hi, I'm Vassilis
-user_description: I'm Vassilis Xanthopoulos and I'm currently studying Electrical and Computer Engineer at ECE NTUA. My academic interests lie in the fields of Algorithms, Complexity and Mathematics. This is my personal website where I showcase my projects and more!
-user_title: and I like mathematics and programming
-email: xanthopoulos.vassilis@gmail.com
-github_username: vilaras
+username: Stelios Giannelos
+user_description: Welcome to my website! Click below to view my CV, project portfolio and more 
+user_title: Informatics & Computers Engineer
+email: stylianos.giannelos@gmail.com
+github_username: steliosgnl
 
 # Google-analytics
 google-analytics:

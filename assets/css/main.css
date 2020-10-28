@@ -3298,7 +3298,7 @@ template {
 [class*=" devicon-"],
 [class^=devicon-] {
 	font-family: devicon;
-	speak: none;
+	speak-as: none;
 	font-style: normal;
 	font-weight: 400;
 	font-variant: normal;
@@ -4829,7 +4829,7 @@ sup {
 
 #particles-js {
     background: #1a222c;
-    background-image: url("milky-way-984050_1920.jpg");
+    background-image: url("sky-828648_1920.jpg");
 	display: flex;
 	vertical-align: bottom;
 	width: 100%;
